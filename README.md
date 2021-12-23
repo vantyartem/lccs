@@ -2,7 +2,7 @@
 ### Simple c++ library for work with console colors.
 
 
-## **Example programm**
+## **Example program**
 ```c++
 color::SetColor(1,color::BLUE);
 cout << "ABOBA" << endl;
